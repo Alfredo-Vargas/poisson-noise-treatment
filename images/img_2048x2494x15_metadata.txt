@@ -1,0 +1,30 @@
+ExifTool Version Number         : 12.42
+File Name                       : img_2048x2494x15.jpg
+Directory                       : .
+File Size                       : 2.7 MB
+File Modification Date/Time     : 2022:09:16 01:09:12+02:00
+File Access Date/Time           : 2022:09:16 01:09:56+02:00
+File Inode Change Date/Time     : 2022:09:16 01:09:12+02:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+X Resolution                    : 3
+Y Resolution                    : 3
+Exif Byte Order                 : Little-endian (Intel, II)
+Compression                     : Uncompressed
+Photometric Interpretation      : BlackIsZero
+Warning                         : Bad offset for IFD0 StripOffsets
+Samples Per Pixel               : 1
+Rows Per Strip                  : 128
+Planar Configuration            : Chunky
+Resolution Unit                 : cm
+S Max Sample Value              : 32767
+Image Width                     : 2048
+Image Height                    : 2494
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 1
+Image Size                      : 2048x2494
+Megapixels                      : 5.1
